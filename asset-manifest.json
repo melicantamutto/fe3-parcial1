@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fe3-parcial1/static/css/main.492e4d72.css",
+    "main.js": "/fe3-parcial1/static/js/main.84b1867a.js",
+    "index.html": "/fe3-parcial1/index.html",
+    "main.492e4d72.css.map": "/fe3-parcial1/static/css/main.492e4d72.css.map",
+    "main.84b1867a.js.map": "/fe3-parcial1/static/js/main.84b1867a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492e4d72.css",
+    "static/js/main.84b1867a.js"
+  ]
+}
